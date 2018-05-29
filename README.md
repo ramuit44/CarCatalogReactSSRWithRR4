@@ -3,6 +3,7 @@ A simple Car Catalog search app with different route states rendered from the Se
 Subsequent routehandling is done by the client side routes. 
 
 ### Notes to Evaluator - Enhancements ###
+1) The app is server side renderered and uses axios as the data fetching frameworks.
 1) CodeSplitting can be done per route basis using the dynamic import feature of React Router 4.
 2) I haven't concentrated on UI styling for this exericise. Went ahead with a basic styling which I thought is sufficent for the exercise. I'm infact more than capable in developing UX reach webapps.
 3) Haven't written any Unit tests for redux or react ducks.
